@@ -38,7 +38,7 @@ const handleRequest = frames(async (ctx) => {
     image: `${appURL()}/02.png`,
     buttons: [
       <Button action="post" target="/">
-        Have a great day!
+        Happy Holidays!
       </Button>,
     ],
   };
